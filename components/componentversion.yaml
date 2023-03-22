@@ -7,7 +7,7 @@ spec:
   interval: 10m0s
   component: github.com/ammar/backend-application-helm
   version:
-    semver: 0.1.0
+    semver: 1.0.0
   repository:
     url: ghcr.io/mohammad-ammar14
     secretRef:
