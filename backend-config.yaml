@@ -4,7 +4,7 @@ metadata:
   name: backend-config
 localization:
   - name: image
-    file: backend-chart/values.yaml
+    file: ./backend-chart/values.yaml
     image: image.repository
     resource:
       name: image
