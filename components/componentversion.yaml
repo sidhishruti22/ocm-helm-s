@@ -9,7 +9,7 @@ spec:
   version:
     semver: v1.0.0
   repository:
-    url: ghcr.io/mohammad-ammar14
+    url: ghcr.io/sidhishruti22
     secretRef:
       name: creds
   verify:
